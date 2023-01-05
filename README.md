@@ -4,8 +4,8 @@ Fitness website to be linked with a fitness app. Started as a College project.
 
 ## Technologies Used:
 
-* HTML5
-* CSS3
+* HTML (HTML5)
+* CSS (CSS3)
 * JavaScript
 
 
